@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd2061fd-5797-4dfd-89e5-63b9ede49d6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../L2_07_09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/ifelse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/out/production/ifelse/less1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/out/production/ifelse/less12/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/out/production/ifelse/less2/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/out/production/ifelse/less3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/out/production/ifelse/less4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/out/production/ifelse/less5/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/out/production/ifelse/less6/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/src/less1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/src/less12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/src/less2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/src/less3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/src/less4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/src/less5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifelse/src/less6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/loops/loop1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_rec1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_rec2/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iXcT9WqjWBElPBJXov3jO2WUDi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_rec1.Main" />
+      <module name="loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop_rec1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_rec2.Main" />
+      <module name="loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop_rec2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop1.Main" />
+      <module name="loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd2061fd-5797-4dfd-89e5-63b9ede49d6f" name="Default Changelist" comment="" />
+      <created>1602057381507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602057381507</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1021" y="135" key="CommitChangelistDialog2" timestamp="1602500623964">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1021" y="135" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1602500623964" />
+    <state width="1059" height="292" key="GridCell.Tab.0.bottom" timestamp="1602500705776">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1059" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602500705776" />
+    <state width="1059" height="292" key="GridCell.Tab.0.center" timestamp="1602500705776">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1059" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602500705776" />
+    <state width="1059" height="292" key="GridCell.Tab.0.left" timestamp="1602500705776">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1059" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602500705776" />
+    <state width="1059" height="292" key="GridCell.Tab.0.right" timestamp="1602500705776">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1059" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602500705776" />
+    <state x="1047" y="233" key="com.intellij.ide.util.TipDialog" timestamp="1602496183175">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1047" y="224" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602057387609" />
+    <state x="1047" y="233" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602496183175" />
+  </component>
+</project>
