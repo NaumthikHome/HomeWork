@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd2061fd-5797-4dfd-89e5-63b9ede49d6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loop_rec3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_del/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_sum/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../L2_07_09" beforeDir="false" afterPath="$PROJECT_DIR$/../L2_07_09" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -31,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop_rec1.Main" />
       <module name="loops" />
@@ -71,12 +72,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop1.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_sum.Main" />
       <module name="loops" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop1.*" />
+          <option name="PATTERN" value="loop_sum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_del.Main" />
+      <module name="loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop_del.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,10 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -123,26 +138,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1021" y="135" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1602500623964" />
-    <state width="1059" height="292" key="GridCell.Tab.0.bottom" timestamp="1602593209698">
+    <state width="1019" height="292" key="GridCell.Tab.0.bottom" timestamp="1604321805659">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1059" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602593209698" />
-    <state width="1059" height="292" key="GridCell.Tab.0.center" timestamp="1602593209698">
+    <state width="1019" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604321805659" />
+    <state width="1019" height="292" key="GridCell.Tab.0.center" timestamp="1604321805659">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1059" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602593209698" />
-    <state width="1059" height="292" key="GridCell.Tab.0.left" timestamp="1602593209698">
+    <state width="1019" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604321805659" />
+    <state width="1019" height="292" key="GridCell.Tab.0.left" timestamp="1604321805659">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1059" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602593209698" />
-    <state width="1059" height="292" key="GridCell.Tab.0.right" timestamp="1602593209698">
+    <state width="1019" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604321805659" />
+    <state width="1019" height="292" key="GridCell.Tab.0.right" timestamp="1604321805659">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1059" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602593209698" />
-    <state x="1047" y="233" key="com.intellij.ide.util.TipDialog" timestamp="1602590658687">
+    <state width="1019" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604321805659" />
+    <state x="1047" y="233" key="com.intellij.ide.util.TipDialog" timestamp="1604318344371">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1047" y="224" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602057387609" />
-    <state x="1047" y="233" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602590658687" />
+    <state x="1047" y="233" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604318344371" />
   </component>
 </project>
