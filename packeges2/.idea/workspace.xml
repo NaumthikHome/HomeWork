@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6934403a-0047-4f67-8ed3-d8a8f020f55f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../packeges2/src/pak2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../packeges2/src/pak2/Sum1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../packeges2/src/pak2/Sum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../packeges2/src/pak3/Main.java" afterDir="false" />
+    <list default="true" id="3fdd24fb-ef92-4812-9be2-6d25dd6863e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pak2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pak2/Sum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pak2/Sum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pak3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../L2_07_09" beforeDir="false" afterPath="$PROJECT_DIR$/../L2_07_09" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packeges1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../packeges1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,11 +27,11 @@
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
-        <option value="Z:\10 класс\Java\packeges1\.idea" />
+        <option value="Z:\10 класс\Java\packeges2\.idea" />
       </set>
     </option>
   </component>
-  <component name="ProjectId" id="1le9nVRGQ34y8B0JhttnD5IWPnU" />
+  <component name="ProjectId" id="1leElaBfM4JLFCyScoeY89L86FQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,15 +40,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pak1.Main" />
-      <module name="packeges1" />
+      <option name="MAIN_CLASS_NAME" value="pak2.Main" />
+      <module name="packeges2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pak1.*" />
+          <option name="PATTERN" value="pak2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,38 +78,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6934403a-0047-4f67-8ed3-d8a8f020f55f" name="Default Changelist" comment="" />
-      <created>1607946856206</created>
+      <changelist id="3fdd24fb-ef92-4812-9be2-6d25dd6863e5" name="Default Changelist" comment="" />
+      <created>1607949308332</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607946856206</updated>
+      <updated>1607949308332</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1607951191264">
+    <state width="1019" height="292" key="GridCell.Tab.0.bottom" timestamp="1607950947364">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607951191264" />
-    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1607951191264">
+    <state width="1019" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607950947364" />
+    <state width="1019" height="292" key="GridCell.Tab.0.center" timestamp="1607950947364">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607951191264" />
-    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1607951191264">
+    <state width="1019" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607950947364" />
+    <state width="1019" height="292" key="GridCell.Tab.0.left" timestamp="1607950947364">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607951191264" />
-    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1607951191264">
+    <state width="1019" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607950947364" />
+    <state width="1019" height="292" key="GridCell.Tab.0.right" timestamp="1607950947364">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607951191264" />
-    <state x="0" y="161" key="new project wizard" timestamp="1607949308226">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="0" y="161" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1607949308226" />
-    <state x="264" y="160" key="refactoring.ChangeSignatureDialog" timestamp="1607948813513">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="264" y="160" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607948813513" />
+    <state width="1019" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607950947364" />
   </component>
 </project>
